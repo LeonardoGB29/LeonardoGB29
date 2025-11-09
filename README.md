@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Leonardo 👋
 
-<!--
-**LeonardoGB29/LeonardoGB29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ciencias de la Computación (UNSA, Arequipa). Me gusta construir **backend limpio (DDD)**, **estructuras de datos en C++**, y jugar con **paralelismo/HPC (MPI)**. También hago front con **React + TypeScript** cuando el proyecto lo pide.
 
-Here are some ideas to get you started:
+## 🔧 Tech stack
+- **Lenguajes:** C, C++, Python, JavaScript
+- **Backend:** Flask, SQLAlchemy, migraciones, pruebas  
+- **Frontend:** React, Vite, Tailwind
+- **Herramientas:** Git/GitHub, Docker, Postman, SonarQube
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏅 Certificaciones y actividades
+- **IELTS Academic 5.0 (2025)**
+- **Asistente – 54 JAIIO 2025**
+
+## 📫 Contacto
+- Email: leogustavo.gb29@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/leonardo-gaona-briceño-810a17174/
