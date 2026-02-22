@@ -3,7 +3,7 @@
 Estudiante de Ciencias de la Computación (UNSA, Arequipa). Me gusta construir **backend limpio (DDD)**, **estructuras de datos en C++**, y jugar con **paralelismo/HPC (MPI)**. También hago front con **React + TypeScript** cuando el proyecto lo pide.
 
 ## 🔧 Tech stack
-- **Lenguajes:** C, C++, Python, JavaScript
+- **Lenguajes:** C, C++, Python
 - **Backend:** Flask, SQLAlchemy, migraciones, pruebas  
 - **Frontend:** React, Vite, Tailwind
 - **Herramientas:** Git/GitHub, Docker, Postman, SonarQube
